@@ -57,11 +57,6 @@
 
 ---
 
-## 📊 PLAYER STATS
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enceladostudios\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 🧠 NEXT LEVEL OBJECTIVES
 
@@ -74,10 +69,6 @@
 
 ## 📡 SAVE POINT
 
-```
-Game saved successfully ✔
-Continue? ▸ YES
-```
 
 ---
 
