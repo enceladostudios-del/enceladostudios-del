@@ -65,11 +65,3 @@
 * 🎮 Create playable experiences
 * 🚀 Reach next dev milestone
 
----
-
-## 📡 SAVE POINT
-
-
----
-
-🟩 *Progress never resets. Only evolves.*
