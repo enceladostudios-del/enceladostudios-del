@@ -1,16 +1,84 @@
-## Hi there 👋
+# 🟪🟦🟩 > PLAYER PROFILE: Paolo
 
-<!--
-**enceladostudios-del/enceladostudios-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+[ Loading character... ███████░░ ]
+```
 
-Here are some ideas to get you started:
+🎮 *Game Dev en progreso | Construyendo mundos, una mecánica a la vez*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 STATUS
+
+🟢 HP: 100%
+🧠 XP: Farming knowledge...
+📚 Current Skill Tree: Unity • C# • Game Design
+
+---
+
+## 🧬 CHARACTER LORE
+
+🧙‍♂️ Diseñador de mundos en entrenamiento
+🌌 Explorador de ideas, sistemas y narrativa
+🧩 Aprendiendo a convertir conceptos en experiencias jugables
+
+> *"Cada proyecto es un nuevo nivel."*
+
+---
+
+## 🕹️ ACTIVE QUESTS
+
+🎮 **2D RPG Prototype**
+
+```
+> Testing combat systems...
+> Building core mechanics...
+> Learning by doing...
+```
+
+🌍 **3D Mini World**
+
+```
+> Environment testing...
+> Interaction systems...
+> Exploring 3D logic...
+```
+
+---
+
+## ⚙️ SKILL INVENTORY
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+
+```
+[ Skills upgrading... ]
+```
+
+---
+
+## 📊 PLAYER STATS
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enceladostudios\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🧠 NEXT LEVEL OBJECTIVES
+
+* 🔧 Unlock advanced mechanics
+* 🌍 Expand worldbuilding systems
+* 🎮 Create playable experiences
+* 🚀 Reach next dev milestone
+
+---
+
+## 📡 SAVE POINT
+
+```
+Game saved successfully ✔
+Continue? ▸ YES
+```
+
+---
+
+🟩 *Progress never resets. Only evolves.*
